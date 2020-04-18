@@ -1,0 +1,34 @@
+{
+    "customers":[
+        {
+            "id":"1",
+            "name":"John Doe",
+            "email":"joe@gmail.com",
+            "age":"34"
+        },
+        {
+            "id":"2",
+            "name":"Jane Doe",
+            "email":"jane@gmail.com",
+            "age":"23"
+        },
+        {
+            "id":"3",
+            "name":"Godwin Agedah",
+            "email":"joe@gmail.com",
+            "age":"14"
+        },
+        {
+            "id":"4",
+            "name":"Jane Doe",
+            "email":"jane@gmail.com",
+            "age":"23"
+        },
+        {
+            "id":"5",
+            "name":"Godwin Agedah",
+            "email":"joe@gmail.com",
+            "age":"14"
+        }
+    ]
+}
